@@ -1,6 +1,6 @@
 {
   "version": "1.12.1",
-  "notes": "Bug fixes and improvements.",
-  "url": "https://example.com/VRCMisaTranslator_Pro_v1_12_1_Setup.exe",
+  "notes": "Pro版アップデートテスト",
+  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.12.1/VRCMisaTranslator_Pro_v1_12_1_Setup.exe",
   "mandatory": false
 }
