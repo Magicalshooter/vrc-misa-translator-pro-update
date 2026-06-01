@@ -1,6 +1,6 @@
 {
-  "version": "1.12.4",
-  "notes": "😈 Hotfix Release - 力は降臨した……しかし、ひとつのCUDAライブラリが迷子になっていました。CUDA関連ライブラリの不足を修正し、cublas64_12.dllエラーを解消。GPU Whisperの安定性も向上しました。さらなる力をお届けします。⚡",
-  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.12.4/VRCMisaTranslator_Pro_v1_12_4_Setup.exe",
+  "version": "1.12.5",
+  "notes": "😈 Hotfix Release - cublas64_12.dll エラーを修正しました。CUDAライブラリ探索処理を改善し、GPU Whisperの安定性を向上しています。⚡",
+  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.12.5/VRCMisaTranslator_Pro_v1_12_5_Setup.exe",
   "mandatory": true
 }
