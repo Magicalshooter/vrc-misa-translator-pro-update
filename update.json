@@ -1,6 +1,6 @@
 {
-  "version": "1.12.3",
-  "notes": "🚀 Pro版リリース！ GPU対応・オートアップデート搭載 / 🎤 VAD導入 / 🪟 原文Overlay追加 / 🛡️ セーフリスト機能追加 / 🌍 24言語対応",
-  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.12.3/VRCMisaTranslator_Pro_v1_12_3_Setup.exe",
-  "mandatory": false
+  "version": "1.12.4",
+  "notes": "😈 Hotfix Release - 力は降臨した……しかし、ひとつのCUDAライブラリが迷子になっていました。CUDA関連ライブラリの不足を修正し、cublas64_12.dllエラーを解消。GPU Whisperの安定性も向上しました。さらなる力をお届けします。⚡",
+  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.12.4/VRCMisaTranslator_Pro_v1_12_4_Setup.exe",
+  "mandatory": true
 }
