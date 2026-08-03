@@ -1,6 +1,6 @@
 {
-  "version": "1.13.2",
-  "notes": "ブラックリスト機能の強化。マイ用語辞典の追加。等のアップデートを行いました",
-  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.13.2/VRCMisaTranslator_Pro_v1_13_2_Setup.exe",
+  "version": "1.13.4",
+  "notes": "VRモード、音声キャリブレーション、相手音声入力、英語長文認識、Filipino / Tagalog対応、辞書編集、OSC送信安全性などを改善しました。\\n\\nImproved VR Mode, Voice Calibration, partner audio input, long English speech handling, Filipino / Tagalog support, dictionary editing, and OSC sending safety.",
+  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.13.4/VRCMisaTranslator_Pro_v1_13_4_Setup.exe",
   "mandatory": false
 }
