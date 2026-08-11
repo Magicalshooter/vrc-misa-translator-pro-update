@@ -1,6 +1,6 @@
 {
-  "version": "1.13.5",
-  "notes": "更新通知機能、Pro Downloader、相手音声入力の診断ログ、英語認識フィルター、VRChatチャットボックスの改行処理などを改善しました。\\n\\nImproved update notifications, Pro Downloader, partner audio diagnostics, English recognition filter, and VRChat chatbox newline handling.",
-  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.13.5/VRCMisaTranslator_Pro_v1_13_5_Setup.exe",
+  "version": "1.13.6",
+  "notes": "日本語音声認識（Kotoba-Whisper）、翻訳プレビューのメイン画面内表示、VRモード、長文の自動分割送信、Chatbox 3行表示時のログ、録音セッション診断ログを改善しました。\n\nImproved Japanese speech recognition with Kotoba-Whisper, in-window translation preview, VR mode, automatic splitting for long messages, Chatbox 3-line display logs, and recording-session diagnostics.",
+  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.13.6/VRCMisaTranslator_Pro_v1_13_6_Setup.exe",
   "mandatory": false
 }
