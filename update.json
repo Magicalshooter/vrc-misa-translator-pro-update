@@ -1,6 +1,6 @@
 {
-  "version": "1.13.6",
-  "notes": "日本語音声認識（Kotoba-Whisper）、翻訳プレビューのメイン画面内表示、VRモード、長文の自動分割送信、Chatbox 3行表示時のログ、録音セッション診断ログを改善しました。\n\nImproved Japanese speech recognition with Kotoba-Whisper, in-window translation preview, VR mode, automatic splitting for long messages, Chatbox 3-line display logs, and recording-session diagnostics.",
-  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.13.6/VRCMisaTranslator_Pro_v1_13_6_Setup.exe",
+  "version": "1.13.7",
+  "notes": "実質空の音声認識結果による翻訳停止を修正し、相手音声のpartial→final更新、長文分割送信、歌詞フレーズ反復判定、相手音声セットアップヘルパー、VB-CABLE / VoiceMeeter案内、相手音声候補リストを改善しました。\n\nFixed translation stopping on effectively empty recognition results and improved partner-audio partial→final handling, long-text split sending, repeated lyric phrase handling, the Partner Audio Setup Helper, VB-CABLE / VoiceMeeter guidance, and partner-audio device candidates.",
+  "url": "https://github.com/Magicalshooter/vrc-misa-translator-pro-update/releases/download/v1.13.7/VRCMisaTranslator_Pro_v1_13_7_Setup.exe",
   "mandatory": false
 }
